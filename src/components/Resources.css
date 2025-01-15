@@ -1,0 +1,24 @@
+/* src/components/Resources.css */
+.resources-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .resource-item {
+    margin: 15px 0;
+    padding: 12px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .resource-item a {
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .resource-item a:hover {
+    text-decoration: underline;
+  }
+  
